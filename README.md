@@ -1,5 +1,5 @@
-# darkSkinHandWave
-<img src="https://raw.githubusercontent.com/DesmondKarani/darkSkinHandWave/refs/heads/main/wave.svg" width="30px" alt="Waving Hand" />
+# Dark Skin Handwave
+<img src="https://raw.githubusercontent.com/DesmondKarani/darkSkinHandWave/refs/heads/main/wave.svg" width="50px" alt="Waving Hand" />
 
 ## 🌟 Features
 
