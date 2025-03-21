@@ -1,8 +1,5 @@
-# ✋🏾 darkSkinHandWave
-
-Welcome to **darkSkinHandWave** – a unique, customizable SVG of a waving hand designed to reflect diversity in digital content! 🎨 Whether you're creating an inclusive GitHub profile, personalizing a blog, or enhancing a project, this SVG is here to make a statement.
-
----
+# darkSkinHandWave
+<img src="https://raw.githubusercontent.com/DesmondKarani/darkSkinHandWave/refs/heads/main/wave.svg" width="30px" alt="Waving Hand" />
 
 ## 🌟 Features
 
